@@ -7,7 +7,7 @@ class automorphic{
         int cp=num;
         int square = num * num;
         
-        boolean isAutomorphic = false;
+        boolean isAutomorphic = true;
 
         while(num != 0 && square != 0){
         
